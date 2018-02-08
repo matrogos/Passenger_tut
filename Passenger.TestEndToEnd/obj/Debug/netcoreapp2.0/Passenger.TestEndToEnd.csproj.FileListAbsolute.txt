@@ -1,0 +1,13 @@
+D:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Passenger.TestEndToEnd.deps.json
+D:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Passenger.TestEndToEnd.runtimeconfig.json
+D:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Passenger.TestEndToEnd.runtimeconfig.dev.json
+D:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Passenger.TestEndToEnd.dll
+D:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Passenger.TestEndToEnd.pdb
+D:\Dev\Passenger\Passenger.TestEndToEnd\obj\Debug\netcoreapp2.0\Passenger.TestEndToEnd.csproj.CoreCompileInputs.cache
+D:\Dev\Passenger\Passenger.TestEndToEnd\obj\Debug\netcoreapp2.0\Passenger.TestEndToEnd.AssemblyInfoInputs.cache
+D:\Dev\Passenger\Passenger.TestEndToEnd\obj\Debug\netcoreapp2.0\Passenger.TestEndToEnd.AssemblyInfo.cs
+D:\Dev\Passenger\Passenger.TestEndToEnd\obj\Debug\netcoreapp2.0\Passenger.TestEndToEnd.dll
+D:\Dev\Passenger\Passenger.TestEndToEnd\obj\Debug\netcoreapp2.0\Passenger.TestEndToEnd.pdb

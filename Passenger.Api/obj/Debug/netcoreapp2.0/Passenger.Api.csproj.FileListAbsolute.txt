@@ -1,0 +1,14 @@
+D:\Dev\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Api.deps.json
+D:\Dev\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Api.runtimeconfig.json
+D:\Dev\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Api.runtimeconfig.dev.json
+D:\Dev\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Api.dll
+D:\Dev\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Api.pdb
+D:\Dev\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Core.dll
+D:\Dev\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Infrastructure.dll
+D:\Dev\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Infrastructure.pdb
+D:\Dev\Passenger\Passenger.Api\bin\Debug\netcoreapp2.0\Passenger.Core.pdb
+D:\Dev\Passenger\Passenger.Api\obj\Debug\netcoreapp2.0\Passenger.Api.csproj.CoreCompileInputs.cache
+D:\Dev\Passenger\Passenger.Api\obj\Debug\netcoreapp2.0\Passenger.Api.AssemblyInfoInputs.cache
+D:\Dev\Passenger\Passenger.Api\obj\Debug\netcoreapp2.0\Passenger.Api.AssemblyInfo.cs
+D:\Dev\Passenger\Passenger.Api\obj\Debug\netcoreapp2.0\Passenger.Api.dll
+D:\Dev\Passenger\Passenger.Api\obj\Debug\netcoreapp2.0\Passenger.Api.pdb

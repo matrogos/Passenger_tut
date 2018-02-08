@@ -1,0 +1,17 @@
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\Passenger.Test.deps.json
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\Passenger.Test.runtimeconfig.json
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\Passenger.Test.runtimeconfig.dev.json
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\Passenger.Test.dll
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\Passenger.Test.pdb
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\Passenger.Core.dll
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\Passenger.Infrastructure.dll
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\Passenger.Core.pdb
+D:\Dev\Passenger\Passenger.Test\bin\Debug\netcoreapp2.0\Passenger.Infrastructure.pdb
+D:\Dev\Passenger\Passenger.Test\obj\Debug\netcoreapp2.0\Passenger.Test.csproj.CoreCompileInputs.cache
+D:\Dev\Passenger\Passenger.Test\obj\Debug\netcoreapp2.0\Passenger.Test.AssemblyInfoInputs.cache
+D:\Dev\Passenger\Passenger.Test\obj\Debug\netcoreapp2.0\Passenger.Test.AssemblyInfo.cs
+D:\Dev\Passenger\Passenger.Test\obj\Debug\netcoreapp2.0\Passenger.Test.dll
+D:\Dev\Passenger\Passenger.Test\obj\Debug\netcoreapp2.0\Passenger.Test.pdb

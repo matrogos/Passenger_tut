@@ -1,0 +1,10 @@
+D:\Dev\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.deps.json
+D:\Dev\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.dll
+D:\Dev\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+D:\Dev\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Core.dll
+D:\Dev\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Core.pdb
+D:\Dev\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Dev\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfoInputs.cache
+D:\Dev\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfo.cs
+D:\Dev\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.dll
+D:\Dev\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.pdb
