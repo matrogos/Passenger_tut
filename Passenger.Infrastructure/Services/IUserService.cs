@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using Passenger.Core.Domain;
 using Passenger.Infrastructure.DTO;
 
@@ -5,9 +6,9 @@ namespace Passenger.Infrastructure.Services
 {
     public interface IUserService
     {
-         void Register(string email, string username, string password);
+         Task RegisterAsync(string email, string username, string password);
 
-         UserDto Get(string email);
+         Task<UserDto> GetAsync(string email);
 
 
     }
