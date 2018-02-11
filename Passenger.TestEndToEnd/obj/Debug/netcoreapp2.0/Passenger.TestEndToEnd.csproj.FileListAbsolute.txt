@@ -11,3 +11,9 @@ D:\Dev\Passenger\Passenger.TestEndToEnd\obj\Debug\netcoreapp2.0\Passenger.TestEn
 D:\Dev\Passenger\Passenger.TestEndToEnd\obj\Debug\netcoreapp2.0\Passenger.TestEndToEnd.AssemblyInfo.cs
 D:\Dev\Passenger\Passenger.TestEndToEnd\obj\Debug\netcoreapp2.0\Passenger.TestEndToEnd.dll
 D:\Dev\Passenger\Passenger.TestEndToEnd\obj\Debug\netcoreapp2.0\Passenger.TestEndToEnd.pdb
+d:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Passenger.Api.dll
+d:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Passenger.Core.dll
+d:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Passenger.Infrastructure.dll
+d:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Passenger.Api.pdb
+d:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Passenger.Core.pdb
+d:\Dev\Passenger\Passenger.TestEndToEnd\bin\Debug\netcoreapp2.0\Passenger.Infrastructure.pdb

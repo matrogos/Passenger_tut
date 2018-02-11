@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
+      "projectUniqueName": "d:\\Dev\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
       "projectName": "Passenger.Core",
-      "projectPath": "D:\\Dev\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
+      "projectPath": "d:\\Dev\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
       "packagesPath": "C:\\Users\\matro\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Passenger\\Passenger.Core\\obj\\",
+      "outputPath": "d:\\Dev\\Passenger\\Passenger.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
