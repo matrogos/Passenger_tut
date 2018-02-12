@@ -12,22 +12,17 @@ using Passenger.Infrastructure.DTO;
 
 namespace Passenger.TestEndToEnd.Controlers
 {
-    public class UserControlerTest
+    public class UserControlerTest : ControllerTestBase
     {
-        private readonly TestServer _server;
-        private readonly HttpClient _client;
-        public UserControlerTest()
+        public UserControlerTest() :base()
         {
-            _server = new TestServer(new WebHostBuilder()
-                        .UseStartup<Startup>());
-            _client = _server.CreateClient();
         }
 
         [Test]
         public async Task given_valid_email_user_should_exist()
         {
             var email = @"a1@a.com";
-            var response = await _client.GetAsync($"api/users/{email}");
+            var response = await Client.GetAsync($"api/users/{email}");
             response.EnsureSuccessStatusCode();
 
             var responseString = await response.Content.ReadAsStringAsync();
@@ -40,7 +35,7 @@ namespace Passenger.TestEndToEnd.Controlers
         public async Task given_invalid_email_user_should_not_exist()
         {
             var email = @"a1000@invalid.com";
-            var response = await _client.GetAsync($"api/users/{email}");
+            var response = await Client.GetAsync($"api/users/{email}");
             Assert.AreEqual(response.StatusCode, HttpStatusCode.NotFound);
         }
 
@@ -54,16 +49,12 @@ namespace Passenger.TestEndToEnd.Controlers
                 UserName="user4"
             };
             var payLoad = GetPayload(request);
-            var response = await _client.PostAsync($"api/users", payLoad);
-            Assert.AreEqual(response.StatusCode, HttpStatusCode.Created);
+            var response = await Client.PostAsync($"api/users", payLoad);
+            Assert.AreEqual( HttpStatusCode.Created, response.StatusCode);
 
             Assert.AreEqual($"api/users/{request.Email}",response.Headers.Location.ToString());
         }
 
-        private static StringContent GetPayload(object data)
-        {
-            var json = JsonConvert.SerializeObject(data);
-            return new StringContent(json, Encoding.UTF8, "application/json");
-        }
+       
     }
 }

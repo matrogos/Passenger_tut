@@ -5826,11 +5826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Dev\\Passenger\\Passenger.Test\\Passenger.Test.csproj",
+      "projectUniqueName": "D:\\Dev\\Passenger\\Passenger.Test\\Passenger.Test.csproj",
       "projectName": "Passenger.Test",
-      "projectPath": "d:\\Dev\\Passenger\\Passenger.Test\\Passenger.Test.csproj",
+      "projectPath": "D:\\Dev\\Passenger\\Passenger.Test\\Passenger.Test.csproj",
       "packagesPath": "C:\\Users\\matro\\.nuget\\packages\\",
-      "outputPath": "d:\\Dev\\Passenger\\Passenger.Test\\obj\\",
+      "outputPath": "D:\\Dev\\Passenger\\Passenger.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5847,11 +5847,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "d:\\Dev\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
-              "projectPath": "d:\\Dev\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
+            "D:\\Dev\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
+              "projectPath": "D:\\Dev\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
             },
-            "d:\\Dev\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
-              "projectPath": "d:\\Dev\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
+            "D:\\Dev\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+              "projectPath": "D:\\Dev\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
             }
           }
         }

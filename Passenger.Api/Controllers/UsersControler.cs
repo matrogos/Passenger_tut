@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Passenger.Infrastructure.Commands;
 using Passenger.Infrastructure.Commands.Users;
 using Passenger.Infrastructure.DTO;
 using Passenger.Infrastructure.Services;
@@ -10,10 +11,10 @@ using Passenger.Infrastructure.Services;
 namespace Passenger.Api.Controllers
 {
     [Route("api/[controller]")]
-    public class UsersController : Controller
+    public class UsersController : ApiControllerBase
     {
         private readonly IUserService _userService;
-        public UsersController(IUserService userService)
+        public UsersController(IUserService userService, ICommandDispatcher commandDispatcher) : base(commandDispatcher)
         {
             _userService = userService;
         }
@@ -37,12 +38,13 @@ namespace Passenger.Api.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody]CreateUser request)
+        public async Task<IActionResult> Post([FromBody]CreateUser command)
         {
             try
             {
-                await _userService.RegisterAsync(request.Email, request.UserName, request.Password);
-                return Created($"api/users/{request.Email}", new object());
+                await CommandDispatcher.DispatchAsync(command);
+                
+                return Created($"api/users/{command.Email}", new object());
             }
             catch(Exception e)
             {

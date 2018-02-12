@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "0c425e0b01c78890d76dfd8f619e6402de70fd12"
+    "signature": "33e3f1a047a0cc30614895fe872cd018d841101c"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,12 +10,22 @@
       "Passenger.Infrastructure/1.0.0": {
         "dependencies": {
           "AutoMapper": "6.2.2",
+          "Autofac": "4.6.2",
           "NETStandard.Library": "2.0.0",
           "Newtonsoft.Json": "10.0.3",
           "Passenger.Core": "1.0.0"
         },
         "runtime": {
           "Passenger.Infrastructure.dll": {}
+        }
+      },
+      "Autofac/4.6.2": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0",
+          "System.ComponentModel": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Autofac.dll": {}
         }
       },
       "AutoMapper/6.2.2": {
@@ -545,6 +555,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Autofac/4.6.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wKI7F6+n45gqfq0T8FuB3hFzaCkuegiFo5in6uB1y2Ai9ZYcjue8yqk3yzyNEwBDS7AyvlTUGSoNovwpUuKqTw==",
+      "path": "autofac/4.6.2",
+      "hashPath": "autofac.4.6.2.nupkg.sha512"
     },
     "AutoMapper/6.2.2": {
       "type": "package",

@@ -31,7 +31,7 @@ namespace Passenger.Infrastructure.Services
                 throw new Exception($"User with email: '{email}' already exists.");
             }
             var salt = Guid.NewGuid().ToString("N");
-            user = new User(email, password, salt, username);
+            user = new User(email, password, "user", salt, username);
 
             await _userRepository.AddAsync(user);
             await Task.CompletedTask;
